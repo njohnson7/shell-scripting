@@ -1,0 +1,4 @@
+total 0
+-rw-rw-r-- 1 one one 0 Sep  8 15:51 output.txt
+listing of foo.txt
+asdad

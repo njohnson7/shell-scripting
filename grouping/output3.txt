@@ -1,0 +1,7 @@
+total 12
+-rw-rw-r-- 1 one one   6 Sep  8 15:52 foo.txt
+-rw-rw-r-- 1 one one 175 Sep  8 15:53 output2.txt
+-rw-rw-r-- 1 one one   0 Sep  8 15:55 output3.txt
+-rw-rw-r-- 1 one one  80 Sep  8 15:52 output.txt
+listing of foo.txt
+asdad
